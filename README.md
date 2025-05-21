@@ -1,5 +1,6 @@
 Projet Cabinet Ostéopathie 🦴✨
-Description
+
+Description : 
 Ce projet consiste à développer une interface web intuitive et moderne pour un cabinet d’ostéopathie. L’objectif est de présenter efficacement le cabinet, son ostéopathe, ses services, et d’offrir une solution simple et rapide pour la prise de rendez-vous en ligne. 📅💻
 
 Fonctionnalités principales
