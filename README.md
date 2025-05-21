@@ -11,68 +11,21 @@ Fonctionnalités principales
 
 🌐 Site responsive et facile à utiliser
 
-Technologies utilisées
-React.js pour l’interface utilisateur
 
-Tailwind CSS pour le design et la mise en page
+Technologies utilisées 🚀🛠️
+⚛️ React.js pour l’interface utilisateur
 
-Node.js & Express pour le backend (API REST)
+🎨 Tailwind CSS pour le design et la mise en page
 
-MongoDB pour la base de données
+🟢 Node.js & 🚂 Express pour le backend (API REST)
 
-Docker pour la conteneurisation
+🍃 MongoDB pour la base de données NoSQL
 
-CI/CD pipeline pour l’automatisation du déploiement
+🐳 Docker pour la conteneurisation et la portabilité
 
-Installation
-Cloner le dépôt :
+🔄 CI/CD pipeline pour l’automatisation du déploiement et la qualité
 
-bash
-Copier
-Modifier
-git clone https://github.com/Karim-cmd25/Osteopathe.git
-Se déplacer dans le dossier frontend :
-
-bash
-Copier
-Modifier
-cd Osteopathe/frontend
-Installer les dépendances :
-
-bash
-Copier
-Modifier
-npm install
-Lancer le serveur de développement :
-
-bash
-Copier
-Modifier
-npm run dev
-Usage
-Accéder à l’application via http://localhost:3000
-
-Naviguer entre les pages Accueil, Services, À propos, Contact
-
-Prendre rendez-vous via le formulaire dédié
-
-Contribution
-Les contributions sont les bienvenues !
-Pour proposer des modifications :
-
-Fork le projet
-
-Créer une branche feature (git checkout -b feature/nom-de-ta-feature)
-
-Commit tes changements (git commit -m "Description de la feature")
-
-Pusher la branche (git push origin feature/nom-de-ta-feature)
-
-Ouvrir une Pull Request
 
 Auteur
 Karim - développeur passionné par le web et les solutions simples pour les professionnels de santé.
-
-Licence
-Ce projet est sous licence MIT.
 
